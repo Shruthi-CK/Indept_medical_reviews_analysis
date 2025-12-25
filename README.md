@@ -12,7 +12,7 @@ The pipeline transforms raw CSV data into business insights across three layers:
 * **🥈 Silver Layer:** Normalizes data into a **Star Schema** comprising standard Dimensions (`DIM_DIAGNOSIS`, `DIM_TREATMENT`, `DIM_PATIENT`, `DIM_DATE`) and a central Fact table (`FACT_IMR`).
 * **🥇 Gold Layer:** Provides aggregated tables for reporting on temporal trends, clinical outcomes, and demographic disparities.
 
-## 📂 Repository Structure
+## Repository Structure
 
 | File | Description |
 | :--- | :--- |
